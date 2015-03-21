@@ -1,0 +1,6 @@
+[MASTER]
+init-hook='import sys; sys.path.append("/usr/share/anki/")'
+
+
+[MESSAGES CONTROL]
+disable=C, F, I, R, W
